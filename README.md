@@ -1,5 +1,6 @@
 # Portfolio Web Lautaro Devoto
 Role focus: Cloud & Automation Specialist — Azure · PowerShell · IaC · Microsoft 365
+
 Status: Built in public · Daily updates · Reproducible artifacts
 
 🇪🇸 Español
